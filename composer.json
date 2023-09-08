@@ -18,8 +18,8 @@
     "require": {
         "illuminate/support": "^10.0",
         "illuminate/session": "^10.0",
-        "illuminate/events": "^10.0"
-        "nesbot/carbon": "^2.67",
+        "illuminate/events": "^10.0",
+        "nesbot/carbon": "^2.67"
     },
     "require-dev": {
         "phpunit/phpunit": "^10.1",
